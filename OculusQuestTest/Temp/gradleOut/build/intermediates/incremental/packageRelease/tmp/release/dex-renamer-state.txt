@@ -1,0 +1,4 @@
+#Sun Jun 02 16:46:16 JST 2019
+base.0=D\:\\git\\OculusQuestTest.git\\OculusQuestTest\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
